@@ -44,9 +44,8 @@ I'm a **Backend Developer** with a focus on **Java** and the **Spring Ecosystem*
 ---
 
 ### 🚀 Projects & Learning
-- 🔭 Currently working on: Medical Assistant app
+- 🔭 Currently working on: Medical ΑΙ Assistant app
 - 🌱 Expanding my knowledge in: Fullstack and cyber security
-- 💬 Ask me about: **Java, Spring Boot and Backend Architecture**
 
 ---
 
