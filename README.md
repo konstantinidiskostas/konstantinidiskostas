@@ -33,4 +33,4 @@ I'm a **Backend Developer** with a focus on **Java** and the **Spring Ecosystem*
 ---
 
 ### 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/konstantinidiskostas) | [Email](konstantinidis.kon@yahoo.com)
+[LinkedIn](https://www.linkedin.com/in/konstantinidiskostas) | [Email](mailto:konstantinidis.kon@yahoo.com)
