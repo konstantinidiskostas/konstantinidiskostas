@@ -11,12 +11,11 @@ I'm a **Backend Developer** with a focus on **Java** and the **Spring Ecosystem*
 
 ---
 
-### 💻 Other Languages & Technologies
-* **Languages:** Python, C++
-* **Frontend Basics:** JavaScript, React
-* **Databases:** PostgreSQL, MySQL, Redis
-* **Tools:** Git, Maven, Docker, IntelliJ IDEA, Kubernetes
-
+Other Languages & Technologies
+Languages: Python, C++
+Frontend Basics: JavaScript, React
+Databases: PostgreSQL, MySQL, Redis
+Tools: Git, Maven, Docker, IntelliJ IDEA, Kubernetes
 ---
 
 ### 🧪 Testing & Quality
