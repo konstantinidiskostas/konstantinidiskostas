@@ -12,8 +12,8 @@ I'm a **Backend Developer** with a focus on **Java** and the **Spring Ecosystem*
 ---
 
 ### 💻 Other Languages & Technologies
-* **Languages:** [Python, C++]
-* **Frontend Basics:** [JavaScript, React]
+* **Languages:** Python, C++
+* **Frontend Basics:** JavaScript, React
 * **Databases:** PostgreSQL, MySQL, Redis
 * **Tools:** Git, Maven, Docker, IntelliJ IDEA, Kubernetes
 
@@ -26,8 +26,8 @@ I'm a **Backend Developer** with a focus on **Java** and the **Spring Ecosystem*
 ---
 
 ### 🚀 Projects & Learning
-- 🔭 Currently working on: [Medical Assistant app]
-- 🌱 Expanding my knowledge in: [Fullstack and cyber security]
+- 🔭 Currently working on: Medical Assistant app
+- 🌱 Expanding my knowledge in: Fullstack and cyber security
 - 💬 Ask me about: **Java, Spring Boot and Backend Architecture**
 
 ---
