@@ -7,7 +7,7 @@ I'm a **Backend Developer** with a focus on **Java** and the **Spring Ecosystem*
 ### 🏆 Core Expertise
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%23005C84.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -20,8 +20,6 @@ I'm a **Backend Developer** with a focus on **Java** and the **Spring Ecosystem*
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 **Databases** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 **Tools & Infrastructure** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
@@ -45,4 +43,11 @@ I'm a **Backend Developer** with a focus on **Java** and the **Spring Ecosystem*
 ---
 
 ### 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/konstantinidiskostas) | [Email](mailto:konstantinidis.kon@yahoo.com)
+
+<a href="https://www.linkedin.com/in/konstantinidiskostas" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="mailto:konstantinidis.kon@yahoo.com">
+<img src="https://img.shields.io/badge/Yahoo!-%236001D2.svg?style=for-the-badge&logo=Yahoo!&logoColor=white" alt="Yahoo!">
+</a>
